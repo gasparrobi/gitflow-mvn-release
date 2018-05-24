@@ -6,7 +6,7 @@
 
     <groupId>com.gasparrobi</groupId>
     <artifactId>gitflow-mvn-release</artifactId>
-    <version>1.0.1</version>
+    <version>1.1.0</version>
 
     <build>
         <plugins>
