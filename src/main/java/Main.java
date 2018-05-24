@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Changed to develop branch, bumped version");
         System.out.println("Made some changes, bumped version to 1.1.0-SNAPSHOT");
         System.out.println("Made some changes, bumped version to 1.1.0-SNAPSHOT");
+        System.out.println("hotfix1");
     }
 
 }
