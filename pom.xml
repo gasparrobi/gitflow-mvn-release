@@ -6,7 +6,8 @@
 
     <groupId>com.gasparrobi</groupId>
     <artifactId>gitflow-mvn-release</artifactId>
-    <version>2.2.0</version>
+    <packaging>pom</packaging>
+    <version>3.0.0</version>
 
     <build>
         <plugins>
@@ -32,6 +33,9 @@
             </plugin>
         </plugins>
     </build>
+    <modules>
+        <module>submodule</module>
+    </modules>
 
 
 </project>
